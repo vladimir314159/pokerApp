@@ -1,0 +1,3 @@
+[submodule "arcore"]
+	path = arcore
+	url = https://github.com/google-ar/sceneform-android-sdk.git
